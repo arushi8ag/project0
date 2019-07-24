@@ -1,5 +1,7 @@
+
+$color:green;
 body{
-    color:white;
+    color : $color;
     background-color:black;
     font-family: Arial, Helvetica, sans-serif;
 }
