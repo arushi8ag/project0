@@ -1,0 +1,18 @@
+#container{
+    width: 1450px;
+    
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#nav{
+    width: 300px;
+    float:left;
+}
+#content{
+    width:1100px;
+    float: right;
+    
+   
+}
