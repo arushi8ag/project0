@@ -1,7 +1,20 @@
-
-$color:green;
+$color:rgb(254, 255, 254);
 body{
     color : $color;
-    background-color:black;
+    background-image:url("you.jpg");
+    background-size: 100% 106.5%;
+    background-repeat: no-repeat;
     font-family: Arial, Helvetica, sans-serif;
+}
+#hello{
+    text-align:start;
+}
+h2{
+    text-align: center;
+    color:black;
+}
+footer
+{
+    
+    text-align: center;
 }
